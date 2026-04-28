@@ -1,4 +1,4 @@
-# Análise de E-commerce — Dashboard Interativo com Dash
+# Análise de E-commerce - Dashboard Interativo com Dash
 
 ## Sobre o projeto
 
