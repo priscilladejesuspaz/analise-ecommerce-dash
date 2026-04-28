@@ -4,7 +4,7 @@
 
 Aplicação web interativa desenvolvida com **Dash (Plotly)** para análise de produtos de moda e vestuário do Mercado Livre.
 
-O usuário final consegue explorar os dados sem precisar interagir com Python — basta acessar o link da aplicação.
+O usuário final consegue explorar os dados sem precisar interagir com Python - basta acessar o link da aplicação.
 
 ## Dashboard
 
